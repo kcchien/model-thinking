@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.svg" alt="Model Thinking — 思維模型工具箱" width="100%"/>
+<img src="assets/cover.png" alt="Model Thinking — 思維模型工具箱" width="100%"/>
 
 <br/>
 <br/>
@@ -178,7 +178,7 @@ model-thinking/
 
 <div align="center">
 
-<img src="assets/cover.svg" alt="Model Thinking — Mental Models Toolkit" width="100%"/>
+<img src="assets/cover.png" alt="Model Thinking — Mental Models Toolkit" width="100%"/>
 
 # Model Thinking
 
