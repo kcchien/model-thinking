@@ -131,6 +131,78 @@ model-thinking/
 - 支援 Agent Skills 的 AI 編碼助手（例如 [Claude Code](https://docs.anthropic.com/en/docs/claude-code)）
 - **零額外依賴** — 不需要 Python、不需要 API key、不需要安裝任何套件
 
+## 📖 附錄：完整模型清單（253 個）
+
+<details>
+<summary><strong>決策 (Decisions) — 25 個</strong></summary>
+
+Inversion · Second-Order Thinking · Probabilistic Thinking · Expected Value · Regret Minimization · Pre-Mortem · Two-Way vs One-Way Door · Circle of Competence · Occam's Razor · Hanlon's Razor · First Principles Thinking · Falsifiability · Devil's Advocate · Six Thinking Hats · Opportunity Cost · Marginal Thinking · Sunk Cost Fallacy · Asymmetric Risk-Reward · Satisficing vs Maximizing · Temporal Discounting · Commitment Devices · Option Value · Weighted Decision Matrix · 10/10/10 Rule · WRAP Framework
+
+</details>
+
+<details>
+<summary><strong>系統 (Systems) — 24 個</strong></summary>
+
+Stocks and Flows · System Boundaries · Hierarchy and Subsystems · Resilience · Reinforcing Feedback Loops · Balancing Feedback Loops · Delays · Dominance Shifting · Oscillation · Exponential Growth · Emergence · Non-linearity · Chaos and Sensitivity · Attractors · Path Dependence · Self-Organization · Adaptive Systems · Leverage Points · Unintended Consequences · Policy Resistance · Shifting the Burden · Fixes That Fail · Limits to Growth · Tragedy of the Commons
+
+</details>
+
+<details>
+<summary><strong>統計 (Statistics) — 25 個</strong></summary>
+
+Bayes' Theorem · Base Rates · Conditional Probability · Independence · Law of Large Numbers · Expected Value · Normal Distribution · Power Laws · Fat Tails · Regression to the Mean · Simpson's Paradox · Survivorship Bias · Signal vs Noise · Confidence Intervals · Correlation vs Causation · Selection Bias · Overfitting · Sample Size Effects · Multiple Comparisons Problem · Gambler's Fallacy · Hot Hand Fallacy · Neglect of Probability · Conjunction Fallacy · Denominator Neglect · Availability Heuristic
+
+</details>
+
+<details>
+<summary><strong>策略 (Strategy) — 26 個</strong></summary>
+
+Nash Equilibrium · Prisoner's Dilemma · Zero-Sum vs Positive-Sum · Repeated Games · Tit-for-Tat · Chicken Game · Stag Hunt · Moats · Porter's Five Forces · Relative vs Absolute Advantage · First-Mover vs Fast-Follower · Blue Ocean Strategy · Disruptive Innovation · Red Queen Effect · BATNA · ZOPA · Integrative vs Distributive Bargaining · Anchoring in Negotiation · Commitment and Consistency · Reciprocity · Schelling Points · Commitment Devices · Signaling · Information Asymmetry · Option Value in Strategy · Precommitment
+
+</details>
+
+<details>
+<summary><strong>心理 (Psychology) — 27 個</strong></summary>
+
+Confirmation Bias · Availability Heuristic · Anchoring · Hindsight Bias · Overconfidence · Dunning-Kruger Effect · Status Quo Bias · Framing Effects · Loss Aversion · Peak-End Rule · Recency and Primacy Effects · Halo Effect · Fundamental Attribution Error · Representativeness Heuristic · Social Proof · Authority Bias · Liking Bias · Commitment and Consistency · In-Group/Out-Group Bias · Groupthink · Bystander Effect · Incentive-Caused Bias · Reactance · Hedonic Treadmill · Maslow's Hierarchy · Self-Serving Bias · Sunk Cost Fallacy
+
+</details>
+
+<details>
+<summary><strong>網路 (Networks) — 25 個</strong></summary>
+
+Nodes and Edges · Network Density · Degree Distribution · Hub Nodes · Network Clustering · Bridges and Structural Holes · Strong vs Weak Ties · Small World Networks · Preferential Attachment · Network Effects · Critical Mass · Tipping Points · Cascade Failures · Social Contagion · Information Cascade · Viral Spread · Seeding Strategies · Echo Chambers · Dunbar's Number · Two-Sided Markets · Multi-Sided Platforms · Switching Costs and Lock-In · Disintermediation · Network Orchestration · Ecosystem Strategy
+
+</details>
+
+<details>
+<summary><strong>演算法 (Algorithms) — 25 個</strong></summary>
+
+Optimal Stopping (37% Rule) · Look-Then-Leap Rule · Secretary Problem Variants · Multi-Armed Bandit · Explore/Exploit Trade-off · Gittins Index · Comparison Sorts · Bucket Sort · Search Costs · LRU Cache · Noguchi Filing System · Earliest Due Date · Shortest Job First · Weighted Shortest Job First · Priority Inversion · Interrupt Coalescing · Context Switching Costs · Thrashing · Gradient Descent · Simulated Annealing · Hill Climbing · Randomness in Optimization · Relaxation · Constraint Satisfaction · Lagrangian Relaxation
+
+</details>
+
+<details>
+<summary><strong>風險 (Risk) — 25 個</strong></summary>
+
+Risk vs Uncertainty · Aleatory vs Epistemic Uncertainty · Known Knowns Matrix · Calibrated Uncertainty · Ergodicity · Fragile · Robust · Antifragile · Hormesis · Via Negativa · Black Swans · Fat Tails vs Thin Tails · Ludic Fallacy · Turkey Problem · Extremistan vs Mediocristan · Precautionary Principle · Margin of Safety · Barbell Strategy · Redundancy · Position Sizing · Asymmetric Payoffs · Skin in the Game · Small Bets · Reversibility Premium · Correlation in Crisis
+
+</details>
+
+<details>
+<summary><strong>學習 (Learning) — 25 個</strong></summary>
+
+Circle of Competence · T-Shaped Knowledge · Spacing Effect · Testing Effect · Interleaving · Elaboration · Dual Coding · Deliberate Practice · 10,000 Hour Rule · Competence Ladder · Plateau Effect · Transfer of Learning · Zeigarnik Effect · Growth vs Fixed Mindset · Desirable Difficulties · Fail Fast, Learn Fast · Antifragility in Learning · Explore/Exploit Trade-off · Compounding Knowledge · Feynman Technique · Analogical Reasoning · Scaffolding · Cognitive Load Theory · Zone of Proximal Development · Chunking
+
+</details>
+
+<details>
+<summary><strong>經濟 (Economics) — 26 個</strong></summary>
+
+Supply and Demand · Opportunity Cost · Marginal Thinking · Comparative Advantage · Diminishing Returns · Economies of Scale · Invisible Hand · Creative Destruction · Externalities · Market Failure · Price Elasticity · Arbitrage · Bubbles and Crashes · Incentives · Principal-Agent Problem · Moral Hazard · Adverse Selection · Tragedy of the Commons · Free Rider Problem · Subjective Value · Price Discrimination · Bundling · Network Effects · Two-Sided Markets · Switching Costs · Auctions and Price Discovery
+
+</details>
+
 ## 📄 授權
 
 [MIT](LICENSE)
@@ -150,7 +222,7 @@ model-thinking/
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Agent Skill](https://img.shields.io/badge/Agent_Skill-Compatible-blueviolet?style=flat-square)](#-compatible-agents)
 [![Domains](https://img.shields.io/badge/Domains-10-34d399?style=flat-square)](#-ten-knowledge-domains)
-[![Models](https://img.shields.io/badge/Models-200+-60a5fa?style=flat-square)](#-ten-knowledge-domains)
+[![Models](https://img.shields.io/badge/Models-253-60a5fa?style=flat-square)](#-ten-knowledge-domains)
 [![Zero Dependencies](https://img.shields.io/badge/Zero_Deps-Install_and_Go-f59e0b?style=flat-square)](#-requirements)
 
 An AI-native thinking toolkit that equips your assistant with 200+ mental models<br/>
@@ -271,6 +343,78 @@ model-thinking/
 
 - An AI coding assistant that supports Agent Skills (e.g., [Claude Code](https://docs.anthropic.com/en/docs/claude-code))
 - **Zero additional dependencies** — no Python, no API keys, no packages to install
+
+## 📖 Appendix: Complete Model List (253)
+
+<details>
+<summary><strong>Decisions — 25</strong></summary>
+
+Inversion · Second-Order Thinking · Probabilistic Thinking · Expected Value · Regret Minimization · Pre-Mortem · Two-Way vs One-Way Door · Circle of Competence · Occam's Razor · Hanlon's Razor · First Principles Thinking · Falsifiability · Devil's Advocate · Six Thinking Hats · Opportunity Cost · Marginal Thinking · Sunk Cost Fallacy · Asymmetric Risk-Reward · Satisficing vs Maximizing · Temporal Discounting · Commitment Devices · Option Value · Weighted Decision Matrix · 10/10/10 Rule · WRAP Framework
+
+</details>
+
+<details>
+<summary><strong>Systems — 24</strong></summary>
+
+Stocks and Flows · System Boundaries · Hierarchy and Subsystems · Resilience · Reinforcing Feedback Loops · Balancing Feedback Loops · Delays · Dominance Shifting · Oscillation · Exponential Growth · Emergence · Non-linearity · Chaos and Sensitivity · Attractors · Path Dependence · Self-Organization · Adaptive Systems · Leverage Points · Unintended Consequences · Policy Resistance · Shifting the Burden · Fixes That Fail · Limits to Growth · Tragedy of the Commons
+
+</details>
+
+<details>
+<summary><strong>Statistics — 25</strong></summary>
+
+Bayes' Theorem · Base Rates · Conditional Probability · Independence · Law of Large Numbers · Expected Value · Normal Distribution · Power Laws · Fat Tails · Regression to the Mean · Simpson's Paradox · Survivorship Bias · Signal vs Noise · Confidence Intervals · Correlation vs Causation · Selection Bias · Overfitting · Sample Size Effects · Multiple Comparisons Problem · Gambler's Fallacy · Hot Hand Fallacy · Neglect of Probability · Conjunction Fallacy · Denominator Neglect · Availability Heuristic
+
+</details>
+
+<details>
+<summary><strong>Strategy — 26</strong></summary>
+
+Nash Equilibrium · Prisoner's Dilemma · Zero-Sum vs Positive-Sum · Repeated Games · Tit-for-Tat · Chicken Game · Stag Hunt · Moats · Porter's Five Forces · Relative vs Absolute Advantage · First-Mover vs Fast-Follower · Blue Ocean Strategy · Disruptive Innovation · Red Queen Effect · BATNA · ZOPA · Integrative vs Distributive Bargaining · Anchoring in Negotiation · Commitment and Consistency · Reciprocity · Schelling Points · Commitment Devices · Signaling · Information Asymmetry · Option Value in Strategy · Precommitment
+
+</details>
+
+<details>
+<summary><strong>Psychology — 27</strong></summary>
+
+Confirmation Bias · Availability Heuristic · Anchoring · Hindsight Bias · Overconfidence · Dunning-Kruger Effect · Status Quo Bias · Framing Effects · Loss Aversion · Peak-End Rule · Recency and Primacy Effects · Halo Effect · Fundamental Attribution Error · Representativeness Heuristic · Social Proof · Authority Bias · Liking Bias · Commitment and Consistency · In-Group/Out-Group Bias · Groupthink · Bystander Effect · Incentive-Caused Bias · Reactance · Hedonic Treadmill · Maslow's Hierarchy · Self-Serving Bias · Sunk Cost Fallacy
+
+</details>
+
+<details>
+<summary><strong>Networks — 25</strong></summary>
+
+Nodes and Edges · Network Density · Degree Distribution · Hub Nodes · Network Clustering · Bridges and Structural Holes · Strong vs Weak Ties · Small World Networks · Preferential Attachment · Network Effects · Critical Mass · Tipping Points · Cascade Failures · Social Contagion · Information Cascade · Viral Spread · Seeding Strategies · Echo Chambers · Dunbar's Number · Two-Sided Markets · Multi-Sided Platforms · Switching Costs and Lock-In · Disintermediation · Network Orchestration · Ecosystem Strategy
+
+</details>
+
+<details>
+<summary><strong>Algorithms — 25</strong></summary>
+
+Optimal Stopping (37% Rule) · Look-Then-Leap Rule · Secretary Problem Variants · Multi-Armed Bandit · Explore/Exploit Trade-off · Gittins Index · Comparison Sorts · Bucket Sort · Search Costs · LRU Cache · Noguchi Filing System · Earliest Due Date · Shortest Job First · Weighted Shortest Job First · Priority Inversion · Interrupt Coalescing · Context Switching Costs · Thrashing · Gradient Descent · Simulated Annealing · Hill Climbing · Randomness in Optimization · Relaxation · Constraint Satisfaction · Lagrangian Relaxation
+
+</details>
+
+<details>
+<summary><strong>Risk — 25</strong></summary>
+
+Risk vs Uncertainty · Aleatory vs Epistemic Uncertainty · Known Knowns Matrix · Calibrated Uncertainty · Ergodicity · Fragile · Robust · Antifragile · Hormesis · Via Negativa · Black Swans · Fat Tails vs Thin Tails · Ludic Fallacy · Turkey Problem · Extremistan vs Mediocristan · Precautionary Principle · Margin of Safety · Barbell Strategy · Redundancy · Position Sizing · Asymmetric Payoffs · Skin in the Game · Small Bets · Reversibility Premium · Correlation in Crisis
+
+</details>
+
+<details>
+<summary><strong>Learning — 25</strong></summary>
+
+Circle of Competence · T-Shaped Knowledge · Spacing Effect · Testing Effect · Interleaving · Elaboration · Dual Coding · Deliberate Practice · 10,000 Hour Rule · Competence Ladder · Plateau Effect · Transfer of Learning · Zeigarnik Effect · Growth vs Fixed Mindset · Desirable Difficulties · Fail Fast, Learn Fast · Antifragility in Learning · Explore/Exploit Trade-off · Compounding Knowledge · Feynman Technique · Analogical Reasoning · Scaffolding · Cognitive Load Theory · Zone of Proximal Development · Chunking
+
+</details>
+
+<details>
+<summary><strong>Economics — 26</strong></summary>
+
+Supply and Demand · Opportunity Cost · Marginal Thinking · Comparative Advantage · Diminishing Returns · Economies of Scale · Invisible Hand · Creative Destruction · Externalities · Market Failure · Price Elasticity · Arbitrage · Bubbles and Crashes · Incentives · Principal-Agent Problem · Moral Hazard · Adverse Selection · Tragedy of the Commons · Free Rider Problem · Subjective Value · Price Discrimination · Bundling · Network Effects · Two-Sided Markets · Switching Costs · Auctions and Price Discovery
+
+</details>
 
 ## 📄 License
 
