@@ -39,12 +39,12 @@ npx skills add kcchien/model-thinking
 
 | 你說 | 發生什麼事 |
 |------|-----------|
-| *「幫我想清楚要不要接這個 offer」* | 自動用後悔最小化、機會成本、可逆性等模型交叉分析 |
-| *「這個系統為什麼越修越壞？」* | 用系統基模（Shifting the Burden）診斷根因 |
-| *「我們該不該搶先進入東南亞市場？」* | 用賽局理論、網路效應、肥尾風險三角驗證 |
-| *「教我什麼是二階思考」* | 進入教學模式：概念 → 範例 → 常見錯誤 → 練習題 |
-| *「用反向思考分析這個商業計畫」* | 直接套用指定模型 |
-| *「幫我做風險評估」* | 引導模式：先問幾個關鍵問題，再選模型 |
+| *「A 公司開年薪 200 萬但要 relocate，B 公司 150 萬但能遠端，怎麼選？」* | 用可逆性、機會成本、10/10/10 法則交叉分析兩個選項的長期影響 |
+| *「我們的客服工單量每季都翻倍，加人卻沒改善」* | 用系統基模（轉嫁負擔 + 成長極限）找出加人只是症狀處理的根因 |
+| *「越南半導體廠用水市場，我們該第一個進去嗎？」* | 用先行者優勢、網路效應、肥尾風險三角驗證，給出進入策略與下注規模 |
+| *「教我什麼是二階思考，用產品定價當例子」* | 教學模式：概念定義 → 定價的一階/二階/三階效應 → 常見陷阱 → 練習題 |
+| *「用 Pre-Mortem 分析我們 Q3 的產品上線計畫」* | 直接套用事前驗屍法，列出「已經失敗了，為什麼？」的風險清單 |
+| *「團隊要決定技術棧，五個人五種意見，怎麼收斂？」* | 引導模式：先釐清決策可逆性與關鍵權重，再用加權決策矩陣 + 六頂思考帽結構化討論 |
 
 ### 三種模式，自動適配
 
@@ -221,12 +221,12 @@ Just talk to your AI assistant naturally:
 
 | You say | What happens |
 |---------|-------------|
-| *"Help me think through this job offer"* | Cross-analyzes with Regret Minimization, Opportunity Cost, Reversibility |
-| *"Why does this system keep getting worse?"* | Diagnoses root cause with system archetypes (Shifting the Burden) |
-| *"Should we enter the Southeast Asian market first?"* | Triangulates with Game Theory, Network Effects, Fat Tail Risk |
-| *"Teach me second-order thinking"* | Teaching mode: concept → example → common mistake → practice prompt |
-| *"Apply inversion to this business plan"* | Directly applies the specified model |
-| *"Help me assess the risks"* | Guided mode: diagnostic questions first, then model selection |
+| *"Company A offers $150K but requires relocation; B offers $120K remote. How to decide?"* | Cross-analyzes with Reversibility, Opportunity Cost, and 10/10/10 Rule for long-term impact |
+| *"Our support tickets double every quarter — hiring more agents isn't helping"* | Diagnoses with system archetypes (Shifting the Burden + Limits to Growth) to find the real bottleneck |
+| *"Vietnam semiconductor fab water market — should we be first in?"* | Triangulates First Mover Advantage, Network Effects, and Fat Tail Risk; recommends entry strategy and bet size |
+| *"Teach me second-order thinking using product pricing as the example"* | Teaching mode: definition → first/second/third-order effects of pricing → common pitfalls → practice prompt |
+| *"Run a Pre-Mortem on our Q3 product launch plan"* | Directly applies Pre-Mortem: "It's 6 months later and we failed — why?" risk inventory |
+| *"Team needs to pick a tech stack — 5 people, 5 opinions. How to converge?"* | Guided mode: clarifies reversibility and key criteria, then applies Weighted Decision Matrix + Six Thinking Hats |
 
 ### Three Modes, Auto-Selected
 
